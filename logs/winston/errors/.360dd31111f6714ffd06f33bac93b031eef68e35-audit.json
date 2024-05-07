@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "G:\\Cloud engineer\\UPH\\university-management-auth-service\\logs\\winston\\errors\\.360dd31111f6714ffd06f33bac93b031eef68e35-audit.json",
+    "files": [
+        {
+            "date": 1715103597612,
+            "name": "G:\\Cloud engineer\\UPH\\university-management-auth-service\\logs\\winston\\errors\\phu-2024-07-05-23-error.log",
+            "hash": "45d219b1c6bf1c7604ef86493940d6fc3ae3ed40132f2db368024db141790cfe"
+        },
+        {
+            "date": 1715105598275,
+            "name": "G:\\Cloud engineer\\UPH\\university-management-auth-service\\logs\\winston\\errors\\phu-2024-08-05-00-error.log",
+            "hash": "58499d1661cf28346cd984750e0b00cb6d39481316c54fa07095a5d1ef59ad3e"
+        }
+    ],
+    "hashType": "sha256"
+}
