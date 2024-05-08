@@ -88,6 +88,8 @@ UserSchema.pre('save', async function (next) {
 
 export const User = model<IUser, UserModel>('User', UserSchema);
 
+
+//Testing
 // UserSchema.methods.isUserExist = async function (
 //   id: string
 // ): Promise<Partial<IUser> | null> {
