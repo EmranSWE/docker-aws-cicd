@@ -35,7 +35,7 @@ app.use((req: Request, res: Response, next: NextFunction) => {
     errorMessages: [
       {
         path: req.originalUrl,
-        message: 'API Not Found| Please check it again! Hello AWS 🚀🚀',
+        message: 'Hey Dev| Your api not found| Please check it again! Hello AWS 🚀🚀',
       },
     ],
   });
